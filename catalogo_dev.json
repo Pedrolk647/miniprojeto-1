@@ -1,6 +1,6 @@
 {
-  "plataforma": "TrilhaSonora",
-  "meta": {
+    "plataforma": "TrilhaSonora", 
+    "meta": {
     "seed": 2026,
     "total_conteudos": 60,
     "total_usuarios": 33,
